@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mblogmongo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Nombre</string>
+    <string name="dni">Identificación</string>
+    <string name="tif">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="Guardar">insertar</string>
+    <string name="Mostrar">mostrar</string>
+</resources>
